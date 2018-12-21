@@ -36,7 +36,7 @@ Deploying into Heroku wrote by sumit patil full stack developer:
 Deploying into Github pages (Some issues are there):
 =====================================================
 
-git remote add origin https://github.com/WebstackAcademy/angular-deploy.git
+git remote add origin https://github.com/patilsumit/Todoapp-Heroku.git
 
 Provide GIT username & password 
 
@@ -44,4 +44,4 @@ sudo npm i -g angular-cli-ghpages
 
 Provide sudo username & password 
 
-ng build --prod --base-href="https://webstackacademy.github.io/angular-deploy/"
+ng build --prod --base-href="https://patilsumit.github.io/Todoapp-Heroku/"
